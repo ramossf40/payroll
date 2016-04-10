@@ -1,4 +1,4 @@
-# Payroll
+Payroll
 ===============
 ### Step 1
 Install dependencies
