@@ -6,7 +6,7 @@ Install dependencies
 npm install
 ```
 
-Step 2
+### Step 2
 Run server
 ```sh
 node app.js
